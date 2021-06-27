@@ -3,8 +3,7 @@
 > * 使用新助力库
 > * 其他未修改，用法与原版相同
 
-# BOT
-### 助力码在@JD_ShareCode_Bot提交 [点击直达BOT](https://t.me/JD_ShareCode_Bot)
+# 自用，限于学习研究用
 
 # Warning
 ### 带助力功能的脚本要使用本仓库的，其他仓库的没有适配新助力池
